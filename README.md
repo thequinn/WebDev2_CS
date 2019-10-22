@@ -1,3 +1,3 @@
 # Web_Dev_2
 
-My learning to adv JS and ES6 for React.
+My learning to JavaScript ES6 for React.
